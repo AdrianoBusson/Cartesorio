@@ -1,0 +1,35 @@
+
+---Downloaded files---
+The import files for: Home 05 were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = https://localhost/cartesorio
+Data file = C:\xampp\htdocs\cartesorio/wp-content/themes/busico/inc/demo-contents/Home-05.xml
+Widget file = C:\xampp\htdocs\cartesorio/wp-content/themes/busico/inc/demo-contents/widget.wie
+Customizer file = C:\xampp\htdocs\cartesorio/wp-content/themes/busico/inc/demo-contents/customizer.dat
+Redux files:
+busico -> C:\xampp\htdocs\cartesorio/wp-content/themes/busico/inc/demo-contents/theme-options.json 
+
+
+---Importing widgets---
+Blog Sidebar : 
+
+Bloco - No Title - Imported
+Bloco - No Title - Imported
+Bloco - No Title - Imported
+Bloco - No Title - Imported
+Bloco - No Title - Imported
+Bloco - No Title - Imported
+Bloco - No Title - Imported
+Bloco - No Title - Imported
+
+
+
+---Importing Redux settings---
+Redux settings import for: busico finished successfully!
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+

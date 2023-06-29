@@ -1,0 +1,527 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Busico\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-07-22 08:46+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.2; wp-6.0.1\n"
+"X-Domain: busico"
+#. used between list items, there is a space after the comma
+#: ../busico/inc/template-tags.php:67
+msgid " "
+msgstr ""
+#: ../busico/inc/classes/Busico_Main.php:257
+msgid " Current job openings"
+msgstr ""
+#: ../busico/inc/template-tags.php:70 ../busico/inc/template-tags.php:77
+#, php-format
+msgid "%1$s"
+msgstr ""
+#: ../busico/inc/theme-options.php:510
+msgid "1"
+msgstr ""
+#. 1: title.
+#: ../busico/comments.php:51
+msgid "1 Response on this post"
+msgstr ""
+#: ../busico/inc/classes/Busico_Main.php:269
+msgid "404"
+msgstr ""
+#: ../busico/404.php:23
+msgid "404 Error!"
+msgstr ""
+#: ../busico/inc/widgets.php:12 ../busico/inc/widgets.php:24
+msgid "Add widgets here."
+msgstr ""
+#: ../busico/inc/theme-options.php:517
+msgid "Advanced"
+msgstr ""
+#: ../busico/inc/demo-setup.php:24 ../busico/inc/demo-setup.php:41
+#: ../busico/inc/demo-setup.php:58
+msgid "After you import this demo, you will have to setup the nav menu."
+msgstr ""
+#: ../busico/inc/classes/Busico_Main.php:285
+#, php-format
+msgid "Archive by Category \"%s\""
+msgstr ""
+#: ../busico/inc/classes/Busico_Main.php:288
+#, php-format
+msgid "Articles Posted by %s"
+msgstr ""
+#: ../busico/inc/theme-options.php:420
+msgid "Blog Grid"
+msgstr ""
+#: ../busico/inc/theme-options.php:408
+msgid "Blog Layout"
+msgstr ""
+#: ../busico/inc/theme-options.php:386
+msgid "Blog Page"
+msgstr ""
+#: ../busico/inc/theme-options.php:401
+msgid "Blog Page Hero Caption"
+msgstr ""
+#: ../busico/inc/theme-options.php:394
+msgid "Blog Page Title"
+msgstr ""
+#: ../busico/inc/widgets.php:10
+msgid "Blog Sidebar"
+msgstr ""
+#: ../busico/inc/theme-options.php:238 ../busico/inc/acf.php:29
+msgid "Body Background Color"
+msgstr ""
+#: ../busico/inc/theme-options.php:340
+msgid "Body Typography"
+msgstr ""
+#: ../busico/inc/theme-options.php:576
+msgid "Busico footer settings!"
+msgstr ""
+#: ../busico/inc/theme-options.php:49 ../busico/inc/theme-options.php:50
+msgid "Busico Options"
+msgstr ""
+#: ../busico/inc/theme-options.php:492
+msgid ""
+"By accessing and placing an order with UXTheme, you confirm that you are in "
+"agreement with and bound by the terms and conditions."
+msgstr ""
+#: ../busico/inc/classes/Busico_Main.php:255
+msgid "Case Study"
+msgstr ""
+#: ../busico/inc/theme-options.php:409
+msgid "Choose the layout you want in blog pages"
+msgstr ""
+#: ../busico/inc/theme-options.php:462
+msgid "Choose the layout you want in single pages"
+msgstr ""
+#: ../busico/inc/theme-options.php:421
+msgid "Choose the number of column you want in blog pages"
+msgstr ""
+#: ../busico/inc/theme-options.php:301
+msgid "Choose the site Dark logo"
+msgstr ""
+#: ../busico/inc/theme-options.php:291
+msgid "Choose the site logo"
+msgstr ""
+#: ../busico/inc/classes/Busico_Main.php:291
+#, php-format
+msgid "Comment Page %s"
+msgstr ""
+#: ../busico/comments.php:122
+msgid "Comments are closed."
+msgstr ""
+#: ../busico/inc/theme-options.php:432
+msgid "Continue Reading Button Title"
+msgstr ""
+#. %s: Name of current post. Only visible to screen readers
+#: ../busico/template-parts/single/team.php:35
+#: ../busico/template-parts/single/post.php:38
+#: ../busico/template-parts/single/service.php:34
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+#: ../busico/inc/theme-options.php:584
+msgid "Copyright"
+msgstr ""
+#: ../busico/inc/template-functions.php:207
+msgid "Copyright 2022, All Rights Reserved"
+msgstr ""
+#: ../busico/inc/theme-options.php:561
+msgid "CSS Code"
+msgstr ""
+#: ../busico/inc/theme-options.php:553
+msgid "Custom Css"
+msgstr ""
+#: ../busico/inc/acf.php:537
+msgid "Designation"
+msgstr ""
+#. %s: Name of current post. Only visible to screen readers
+#: ../busico/inc/template-tags.php:104
+#: ../busico/template-parts/contents/content-page.php:36
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+#: ../busico/inc/theme-options.php:230
+msgid "Enable Preloader?"
+msgstr ""
+#: ../busico/inc/theme-options.php:433
+msgid "Enter the button text for continue reading button."
+msgstr ""
+#: ../busico/inc/classes/Busico_Main.php:289
+msgid "Error 404"
+msgstr ""
+#: ../busico/inc/acf.php:333
+msgid "Exclude On"
+msgstr ""
+#: ../busico/inc/acf.php:314
+msgid "Exclude Rules"
+msgstr ""
+#: ../busico/inc/theme-options.php:574
+msgid "Footer"
+msgstr ""
+#: ../busico/inc/acf.php:13
+msgid "General"
+msgstr ""
+#: ../busico/inc/theme-options.php:222
+msgid "General Settings"
+msgstr ""
+#: ../busico/inc/theme-options.php:491
+msgid "Give any breadcrumb page caption for the Shop page."
+msgstr ""
+#: ../busico/inc/theme-options.php:395 ../busico/inc/theme-options.php:402
+msgid "Give any breadcrumb page title for the blog page."
+msgstr ""
+#: ../busico/inc/theme-options.php:484
+msgid "Give any breadcrumb page title for the shop page."
+msgstr ""
+#: ../busico/inc/theme-options.php:455
+msgid "Give any breadcrumb page title for the single article page."
+msgstr ""
+#: ../busico/inc/theme-options.php:585
+msgid "Give the copyright text"
+msgstr ""
+#: ../busico/404.php:25
+msgid "Go back to home"
+msgstr ""
+#: ../busico/inc/theme-options.php:508
+msgid "Google Maps Api"
+msgstr ""
+#: ../busico/inc/acf.php:44
+msgid "Header"
+msgstr ""
+#: ../busico/inc/acf.php:230
+msgid "Header Footer Include/Exclude Permission"
+msgstr ""
+#: ../busico/inc/theme-options.php:264
+msgid "Heading Color"
+msgstr ""
+#: ../busico/inc/theme-options.php:361
+msgid "Heading Typography"
+msgstr ""
+#: ../busico/inc/acf.php:427
+msgid "Hide this menu"
+msgstr ""
+#: ../busico/inc/classes/Busico_Main.php:283
+msgid "Home"
+msgstr ""
+#: ../busico/inc/acf.php:603
+msgid "icon"
+msgstr ""
+#: ../busico/inc/acf.php:253
+msgid "Include On"
+msgstr ""
+#: ../busico/inc/acf.php:234
+msgid "Include Rules"
+msgstr ""
+#: ../busico/inc/theme-options.php:500
+msgid "Integrations"
+msgstr ""
+#: ../busico/template-parts/contents/content-none.php:45
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+#. %s: post title
+#: ../busico/inc/template-tags.php:87
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+#. used between list items, there is a space after the comma
+#: ../busico/inc/template-tags.php:74
+msgctxt "list item separator"
+msgid ""
+msgstr ""
+#: ../busico/comments.php:90
+msgid "Load more comments"
+msgstr ""
+#: ../busico/inc/theme-options.php:283 ../busico/inc/theme-options.php:290
+#: ../busico/inc/acf.php:61
+msgid "Logo"
+msgstr ""
+#: ../busico/inc/theme-options.php:310
+msgid "Logo Max Width (Desktop)"
+msgstr ""
+#: ../busico/inc/theme-options.php:320
+msgid "Logo Max Width (Mobile)"
+msgstr ""
+#: ../busico/functions.php:52
+msgid "Main Menu"
+msgstr ""
+#: ../busico/inc/acf.php:446
+msgid "Mark as megamenu title"
+msgstr ""
+#: ../busico/inc/acf.php:486
+msgid "Megamenu Options"
+msgstr ""
+#: ../busico/inc/acf.php:423
+msgid "Menu Item Option"
+msgstr ""
+#: ../busico/single.php:54
+msgid "Next post:"
+msgstr ""
+#: ../busico/template-parts/contents/content-none.php:15
+msgid "Nothing Found"
+msgstr ""
+#: ../busico/inc/classes/Busico_Main.php:253
+msgid "Our Blog"
+msgstr ""
+#: ../busico/inc/theme-options.php:396
+msgid "Our blog"
+msgstr ""
+#: ../busico/inc/classes/Busico_Main.php:263
+msgid "Our Products"
+msgstr ""
+#: ../busico/inc/theme-options.php:485
+msgid "Our Shop"
+msgstr ""
+#: ../busico/inc/classes/Busico_Main.php:290
+#, php-format
+msgid "Page %s"
+msgstr ""
+#: ../busico/inc/acf.php:9
+msgid "Page Options"
+msgstr ""
+#: ../busico/inc/acf.php:280 ../busico/inc/acf.php:360
+msgid "Pages"
+msgstr ""
+#: ../busico/template-parts/contents/content-page.php:22
+#: ../busico/template-parts/single/post.php:51
+#: ../busico/template-parts/single/service.php:46
+msgid "Pages:"
+msgstr ""
+#: ../busico/inc/theme-options.php:562
+msgid "Paste your CSS code here."
+msgstr ""
+#: ../busico/inc/theme-options.php:265
+msgid "Pick a color for headings."
+msgstr ""
+#: ../busico/inc/theme-options.php:273
+msgid "Pick a color for texts."
+msgstr ""
+#: ../busico/inc/theme-options.php:239
+msgid "Pick a color for the body."
+msgstr ""
+#: ../busico/inc/theme-options.php:248 ../busico/inc/theme-options.php:257
+msgid "Pick a color for the theme."
+msgstr ""
+#: ../busico/inc/theme-options.php:526
+msgid "Portfolio"
+msgstr ""
+#. %s: post author.
+#: ../busico/inc/template-tags.php:49
+#, php-format
+msgctxt "post author"
+msgid "%s"
+msgstr ""
+#: ../busico/comments.php:127
+msgid "Post Comment"
+msgstr ""
+#. %s: post date.
+#: ../busico/inc/template-tags.php:32
+#, php-format
+msgctxt "post date"
+msgid "%s"
+msgstr ""
+#: ../busico/inc/acf.php:149
+msgid "Post Page Layout"
+msgstr ""
+#. 1: list of categories.
+#: ../busico/inc/template-tags.php:70
+msgid "Posted in:"
+msgstr ""
+#: ../busico/inc/classes/Busico_Main.php:287
+#, php-format
+msgid "Posts Tagged \"%s\""
+msgstr ""
+#: ../busico/single.php:53
+msgid "Previous post:"
+msgstr ""
+#: ../busico/inc/theme-options.php:247
+msgid "Primary Color"
+msgstr ""
+#: ../busico/inc/theme-options.php:434
+#: ../busico/template-parts/contents/content.php:77
+msgid "Read More"
+msgstr ""
+#: ../busico/inc/theme-options.php:403
+msgid "Read our latest blog posts."
+msgstr ""
+#. 1: link to WP admin new post page.
+#: ../busico/template-parts/contents/content-none.php:25
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+#. 1: comment count number, 2: title.
+#: ../busico/comments.php:57
+#, php-format
+msgctxt "Responses title"
+msgid "%1$s Response on this post"
+msgid_plural "%1$s Responses on this post"
+msgstr[0] ""
+msgstr[1] ""
+#: ../busico/inc/acf.php:556
+msgid "Review Rating"
+msgstr ""
+#: ../busico/inc/classes/Busico_Main.php:286
+#, php-format
+msgid "Search Results for \"%s\" Query"
+msgstr ""
+#: ../busico/inc/classes/Busico_Main.php:267
+msgid "Search results for: "
+msgstr ""
+#: ../busico/inc/theme-options.php:256
+msgid "Secondary Color"
+msgstr ""
+#: ../busico/inc/acf.php:172
+msgid "Select Custom Layout"
+msgstr ""
+#: ../busico/inc/acf.php:96
+msgid "Select Logo"
+msgstr ""
+#: ../busico/inc/acf.php:490
+msgid "Select Megamenu"
+msgstr ""
+#: ../busico/inc/theme-options.php:532
+msgid "Service"
+msgstr ""
+#: ../busico/inc/theme-options.php:509
+msgid "Set the google map api."
+msgstr ""
+#: ../busico/inc/theme-options.php:311
+msgid "Set the logo maximum width size for desktop in px unit"
+msgstr ""
+#: ../busico/inc/theme-options.php:321
+msgid "Set the logo maximum width size for mobile in px unit"
+msgstr ""
+#: ../busico/inc/theme-options.php:356
+msgid "Set typography for body"
+msgstr ""
+#: ../busico/inc/theme-options.php:378
+msgid "Set typography for heading"
+msgstr ""
+#: ../busico/inc/classes/Busico_Main.php:284
+msgid "Shop"
+msgstr ""
+#: ../busico/inc/theme-options.php:475
+msgid "Shop Page"
+msgstr ""
+#: ../busico/inc/theme-options.php:490
+msgid "Shop Page Breadcrumb Caption"
+msgstr ""
+#: ../busico/inc/theme-options.php:483
+msgid "Shop Page Title"
+msgstr ""
+#: ../busico/inc/theme-options.php:439
+msgid "Show Excerpt?"
+msgstr ""
+#: ../busico/inc/theme-options.php:519
+msgid "Show/Hide Options! ( K.A Custom Post )"
+msgstr ""
+#: ../busico/inc/theme-options.php:446
+msgid "Single Page"
+msgstr ""
+#: ../busico/inc/theme-options.php:461
+msgid "Single Page Layout"
+msgstr ""
+#: ../busico/inc/theme-options.php:454
+msgid "Single Page Title"
+msgstr ""
+#: ../busico/header.php:34
+msgid "Skip to content"
+msgstr ""
+#: ../busico/inc/acf.php:584
+msgid "Social Links"
+msgstr ""
+#: ../busico/template-parts/contents/content-none.php:38
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+#: ../busico/template-parts/contents/content.php:40
+msgid "Sticky"
+msgstr ""
+#. 1: list of tags.
+#: ../busico/inc/template-tags.php:77
+msgid "Tags:"
+msgstr ""
+#: ../busico/inc/theme-options.php:538
+msgid "Team"
+msgstr ""
+#: ../busico/inc/theme-options.php:544 ../busico/inc/acf.php:533
+msgid "Testimonial"
+msgstr ""
+#: ../busico/inc/theme-options.php:272
+msgid "Text Color"
+msgstr ""
+#: ../busico/404.php:24
+msgid ""
+"The page you are looking for is not available or doesn’t belong to this "
+"website!"
+msgstr ""
+#: ../busico/inc/theme-options.php:198
+msgid "Theme activated succeessfully!!"
+msgstr ""
+#: ../busico/inc/theme-options.php:205
+msgid "Theme are not activated"
+msgstr ""
+#: ../busico/inc/theme-options.php:174
+msgid "Theme Information 1"
+msgstr ""
+#: ../busico/inc/theme-options.php:179
+msgid "Theme Information 2"
+msgstr ""
+#: ../busico/inc/theme-options.php:186
+msgid "This is the sidebar content, HTML is allowed."
+msgstr ""
+#: ../busico/inc/theme-options.php:175 ../busico/inc/theme-options.php:180
+msgid "This is the tab content, HTML is allowed."
+msgstr ""
+#: ../busico/inc/theme-options.php:155
+msgid ""
+"This text is displayed above the options panel. It isn't required, but more "
+"info is always better! The intro_text field accepts all HTML."
+msgstr ""
+#: ../busico/inc/theme-options.php:159
+msgid ""
+"This text is displayed below the options panel. It isn't required, but more "
+"info is always better! The footer_text field accepts all HTML."
+msgstr ""
+#: ../busico/searchform.php:2
+msgid "Type to search"
+msgstr ""
+#: ../busico/comments.php:129
+msgid "Type your comments...."
+msgstr ""
+#: ../busico/comments.php:138
+msgid "Type your email...."
+msgstr ""
+#: ../busico/comments.php:134
+msgid "Type your name...."
+msgstr ""
+#: ../busico/inc/theme-options.php:333
+msgid "Typography"
+msgstr ""
+#: ../busico/inc/acf.php:632
+msgid "URL"
+msgstr ""
+#: ../busico/inc/acf.php:77
+msgid "Use Custom Logo"
+msgstr ""
+#: ../busico/inc/acf.php:153
+msgid "Use Custom Page Layout?"
+msgstr ""
+#: ../busico/inc/theme-options.php:300
+msgid "White Logo"
+msgstr ""
+#: ../busico/inc/theme-options.php:231
+msgid "Wish to use preloader?"
+msgstr ""
+

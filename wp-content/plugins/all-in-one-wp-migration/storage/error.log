@@ -1,0 +1,1119 @@
+Jun 27 2023 17:54:52
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\export-wp-page-to-static-html-pro-premium\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Jun 27 2023 17:54:54
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\export-wp-page-to-static-html-pro-premium\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Jun 28 2023 16:09:01
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 28 2023 16:09:12
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 28 2023 16:09:16
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 28 2023 16:09:16
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 28 2023 16:09:19
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 28 2023 16:09:22
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 28 2023 16:09:22
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 28 2023 16:09:25
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 28 2023 16:09:29
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 28 2023 16:09:29
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 28 2023 16:09:33
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 28 2023 16:09:35
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 28 2023 16:09:42
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 28 2023 16:09:43
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 28 2023 16:09:47
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 28 2023 16:09:49
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 28 2023 16:09:50
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 28 2023 16:09:54
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 28 2023 16:09:55
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 28 2023 16:10:01
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 28 2023 16:10:02
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 28 2023 16:10:08
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 28 2023 16:10:14
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 28 2023 16:10:15
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 28 2023 16:10:22
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 28 2023 16:10:28
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 28 2023 16:10:29
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 28 2023 16:10:35
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 28 2023 16:10:41
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 28 2023 16:10:42
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 28 2023 16:10:48
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 28 2023 16:10:54
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 28 2023 16:10:55
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 28 2023 16:11:02
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 28 2023 16:11:08
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 28 2023 16:11:08
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 28 2023 16:11:15
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 28 2023 16:11:21
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 28 2023 16:11:21
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 28 2023 16:11:28
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 28 2023 16:11:34
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 28 2023 16:11:35
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 28 2023 16:11:41
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 28 2023 16:11:47
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 28 2023 16:11:48
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 28 2023 16:11:56
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 28 2023 16:12:01
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 28 2023 16:12:03
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 28 2023 16:12:10
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 28 2023 16:12:15
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 28 2023 16:12:17
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 28 2023 16:12:24
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 28 2023 16:12:29
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 28 2023 16:12:32
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 28 2023 16:12:39
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 28 2023 16:12:44
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 28 2023 16:12:46
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 28 2023 16:12:53
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 28 2023 16:12:57
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 28 2023 16:13:00
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 28 2023 16:13:08
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 28 2023 16:13:11
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 28 2023 16:13:15
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 28 2023 16:13:23
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 28 2023 16:13:26
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 28 2023 16:13:30
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 28 2023 16:13:37
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 28 2023 16:13:41
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 28 2023 16:13:44
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 28 2023 16:13:51
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 28 2023 16:13:55
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 28 2023 16:13:59
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 28 2023 16:14:06
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 28 2023 16:14:09
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 28 2023 16:14:13
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 28 2023 16:14:20
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 28 2023 16:14:23
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 28 2023 16:14:27
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 28 2023 16:14:34
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 28 2023 16:14:37
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 28 2023 16:14:41
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 28 2023 16:14:48
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 28 2023 16:14:51
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 28 2023 16:14:55
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 28 2023 16:15:02
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 28 2023 16:15:05
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 28 2023 16:15:09
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 28 2023 16:15:16
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 28 2023 16:15:19
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 28 2023 16:15:24
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 28 2023 16:15:32
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 28 2023 16:15:33
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 28 2023 16:15:39
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 28 2023 16:15:46
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 28 2023 16:15:47
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 28 2023 16:15:51
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 28 2023 16:15:53
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 28 2023 16:16:00
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 28 2023 16:16:04
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 28 2023 16:16:08
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 28 2023 16:16:09
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 28 2023 16:16:13
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 28 2023 16:16:15
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 28 2023 16:16:17
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 28 2023 16:16:22
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 28 2023 16:16:22
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 28 2023 16:16:25
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 28 2023 16:26:43
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 29 2023 00:31:53
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 29 2023 00:31:56
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 29 2023 00:32:00
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 29 2023 00:32:00
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 29 2023 00:32:05
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 29 2023 00:32:07
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 29 2023 00:32:09
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 29 2023 00:32:12
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 29 2023 00:32:14
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 29 2023 00:32:16
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 29 2023 00:32:20
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 29 2023 00:32:21
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 29 2023 00:32:29
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 29 2023 00:32:33
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 29 2023 00:32:36
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 29 2023 00:32:37
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 29 2023 00:32:40
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 29 2023 00:32:43
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 29 2023 00:32:45
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 29 2023 00:32:50
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 29 2023 00:32:56
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 29 2023 00:32:57
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 29 2023 00:33:05
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 29 2023 00:33:10
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 29 2023 00:33:11
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 29 2023 00:33:18
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 29 2023 00:33:23
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 29 2023 00:33:25
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 29 2023 00:33:32
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 29 2023 00:33:36
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 29 2023 00:33:38
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 29 2023 00:33:45
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 29 2023 00:33:50
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 29 2023 00:33:51
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 29 2023 00:33:58
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 29 2023 00:34:03
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 29 2023 00:34:05
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 29 2023 00:34:11
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 29 2023 00:34:16
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 29 2023 00:34:18
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 29 2023 00:34:24
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 29 2023 00:34:29
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 29 2023 00:34:31
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 29 2023 00:34:38
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 29 2023 00:34:43
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 29 2023 00:34:44
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 29 2023 00:34:51
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 29 2023 00:34:56
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 29 2023 00:34:57
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 29 2023 00:35:04
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 29 2023 00:35:09
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 29 2023 00:35:11
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 29 2023 00:35:17
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 29 2023 00:35:22
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 29 2023 00:35:24
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 29 2023 00:35:31
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 29 2023 00:35:36
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 29 2023 00:35:38
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 29 2023 00:35:44
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 29 2023 00:35:49
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 29 2023 00:35:51
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 29 2023 00:35:58
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 29 2023 00:36:02
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 29 2023 00:36:04
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 29 2023 00:36:11
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 29 2023 00:36:16
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 29 2023 00:36:17
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 29 2023 00:36:24
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 29 2023 00:36:29
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 29 2023 00:36:31
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 29 2023 00:36:37
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 29 2023 00:36:42
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 29 2023 00:36:44
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 29 2023 00:36:51
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 29 2023 00:36:56
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 29 2023 00:36:57
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 29 2023 00:37:04
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 29 2023 00:37:09
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 29 2023 00:37:10
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 29 2023 00:37:17
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 29 2023 00:37:22
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 29 2023 00:37:23
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 29 2023 00:37:26
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 29 2023 00:37:31
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 29 2023 00:37:37
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 29 2023 00:37:37
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 29 2023 00:37:41
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 29 2023 00:37:44
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 29 2023 00:37:45
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 29 2023 00:37:48
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 29 2023 00:37:50
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 29 2023 00:37:52
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 29 2023 00:37:55
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 29 2023 00:37:57
+{"type":8192,"message":"Return type of RestClient::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\wp-smart-contracts\\classes\\wpsc-rest-client.php","line":103}
+
+Jun 29 2023 00:57:00
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\export-wp-page-to-static-html-pro-premium\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Jun 29 2023 00:57:02
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\export-wp-page-to-static-html-pro-premium\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Jun 29 2023 00:57:04
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\export-wp-page-to-static-html-pro-premium\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Jun 29 2023 00:57:04
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\export-wp-page-to-static-html-pro-premium\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Jun 29 2023 00:57:05
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\export-wp-page-to-static-html-pro-premium\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Jun 29 2023 00:57:07
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\export-wp-page-to-static-html-pro-premium\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Jun 29 2023 00:57:08
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\export-wp-page-to-static-html-pro-premium\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Jun 29 2023 00:57:08
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\export-wp-page-to-static-html-pro-premium\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Jun 29 2023 00:57:10
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\export-wp-page-to-static-html-pro-premium\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Jun 29 2023 00:57:12
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\export-wp-page-to-static-html-pro-premium\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Jun 29 2023 00:57:13
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\export-wp-page-to-static-html-pro-premium\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Jun 29 2023 00:57:18
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\export-wp-page-to-static-html-pro-premium\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Jun 29 2023 00:57:18
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\export-wp-page-to-static-html-pro-premium\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Jun 29 2023 00:57:20
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\export-wp-page-to-static-html-pro-premium\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Jun 29 2023 00:57:21
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\export-wp-page-to-static-html-pro-premium\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Jun 29 2023 00:57:23
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\export-wp-page-to-static-html-pro-premium\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Jun 29 2023 00:57:23
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\export-wp-page-to-static-html-pro-premium\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Jun 29 2023 00:57:25
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\export-wp-page-to-static-html-pro-premium\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Jun 29 2023 00:57:28
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\export-wp-page-to-static-html-pro-premium\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Jun 29 2023 00:57:33
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\export-wp-page-to-static-html-pro-premium\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Jun 29 2023 00:57:37
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\export-wp-page-to-static-html-pro-premium\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Jun 29 2023 00:57:38
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\export-wp-page-to-static-html-pro-premium\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Jun 29 2023 00:57:43
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\export-wp-page-to-static-html-pro-premium\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Jun 29 2023 00:57:44
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\export-wp-page-to-static-html-pro-premium\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Jun 29 2023 00:57:47
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\export-wp-page-to-static-html-pro-premium\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Jun 29 2023 00:57:48
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\export-wp-page-to-static-html-pro-premium\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Jun 29 2023 00:57:50
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\export-wp-page-to-static-html-pro-premium\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Jun 29 2023 00:57:52
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\export-wp-page-to-static-html-pro-premium\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Jun 29 2023 00:57:53
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\export-wp-page-to-static-html-pro-premium\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Jun 29 2023 00:57:54
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\export-wp-page-to-static-html-pro-premium\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Jun 29 2023 00:57:57
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\export-wp-page-to-static-html-pro-premium\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Jun 29 2023 00:57:58
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\export-wp-page-to-static-html-pro-premium\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Jun 29 2023 00:57:59
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\export-wp-page-to-static-html-pro-premium\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Jun 29 2023 00:59:26
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\export-wp-page-to-static-html-pro-premium\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Jun 29 2023 00:59:32
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\export-wp-page-to-static-html-pro-premium\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Jun 29 2023 00:59:38
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\export-wp-page-to-static-html-pro-premium\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Jun 29 2023 15:37:22
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\export-wp-page-to-static-html-pro-premium\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Jun 29 2023 15:37:24
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\export-wp-page-to-static-html-pro-premium\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Jun 29 2023 15:37:30
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\export-wp-page-to-static-html-pro-premium\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Jun 29 2023 15:37:33
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\export-wp-page-to-static-html-pro-premium\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Jun 29 2023 15:37:35
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\export-wp-page-to-static-html-pro-premium\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Jun 29 2023 15:37:37
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\export-wp-page-to-static-html-pro-premium\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Jun 29 2023 15:37:39
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\export-wp-page-to-static-html-pro-premium\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Jun 29 2023 15:37:42
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\export-wp-page-to-static-html-pro-premium\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Jun 29 2023 15:37:44
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\export-wp-page-to-static-html-pro-premium\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Jun 29 2023 15:37:46
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\export-wp-page-to-static-html-pro-premium\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Jun 29 2023 15:37:48
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\export-wp-page-to-static-html-pro-premium\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Jun 29 2023 15:37:51
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\export-wp-page-to-static-html-pro-premium\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Jun 29 2023 15:37:53
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\export-wp-page-to-static-html-pro-premium\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Jun 29 2023 15:37:55
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\export-wp-page-to-static-html-pro-premium\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Jun 29 2023 15:37:57
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\export-wp-page-to-static-html-pro-premium\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Jun 29 2023 15:38:00
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\export-wp-page-to-static-html-pro-premium\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Jun 29 2023 15:38:02
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\export-wp-page-to-static-html-pro-premium\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Jun 29 2023 15:38:04
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\export-wp-page-to-static-html-pro-premium\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Jun 29 2023 15:38:07
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\export-wp-page-to-static-html-pro-premium\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Jun 29 2023 15:38:09
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\export-wp-page-to-static-html-pro-premium\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Jun 29 2023 15:38:11
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\export-wp-page-to-static-html-pro-premium\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Jun 29 2023 15:38:13
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\export-wp-page-to-static-html-pro-premium\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Jun 29 2023 15:38:16
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\export-wp-page-to-static-html-pro-premium\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Jun 29 2023 15:38:24
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\export-wp-page-to-static-html-pro-premium\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Jun 29 2023 15:38:26
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\export-wp-page-to-static-html-pro-premium\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Jun 29 2023 15:38:29
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\export-wp-page-to-static-html-pro-premium\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Jun 29 2023 15:38:31
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\export-wp-page-to-static-html-pro-premium\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Jun 29 2023 15:38:33
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\export-wp-page-to-static-html-pro-premium\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Jun 29 2023 15:38:36
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\export-wp-page-to-static-html-pro-premium\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Jun 29 2023 15:38:38
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\export-wp-page-to-static-html-pro-premium\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Jun 29 2023 15:38:40
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\export-wp-page-to-static-html-pro-premium\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Jun 29 2023 15:38:42
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\export-wp-page-to-static-html-pro-premium\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Jun 29 2023 15:38:45
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\export-wp-page-to-static-html-pro-premium\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Jun 29 2023 15:38:47
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\export-wp-page-to-static-html-pro-premium\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Jun 29 2023 15:38:49
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\export-wp-page-to-static-html-pro-premium\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Jun 29 2023 15:38:51
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\export-wp-page-to-static-html-pro-premium\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Jun 29 2023 15:38:54
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\export-wp-page-to-static-html-pro-premium\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Jun 29 2023 15:38:56
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\export-wp-page-to-static-html-pro-premium\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Jun 29 2023 15:38:58
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\export-wp-page-to-static-html-pro-premium\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Jun 29 2023 15:39:00
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\export-wp-page-to-static-html-pro-premium\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Jun 29 2023 15:39:02
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\export-wp-page-to-static-html-pro-premium\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Jun 29 2023 15:39:05
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\export-wp-page-to-static-html-pro-premium\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Jun 29 2023 15:39:07
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\export-wp-page-to-static-html-pro-premium\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Jun 29 2023 15:39:09
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\export-wp-page-to-static-html-pro-premium\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Jun 29 2023 15:39:11
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\export-wp-page-to-static-html-pro-premium\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Jun 29 2023 15:39:14
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\export-wp-page-to-static-html-pro-premium\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Jun 29 2023 15:39:16
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\export-wp-page-to-static-html-pro-premium\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Jun 29 2023 15:39:18
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\export-wp-page-to-static-html-pro-premium\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Jun 29 2023 15:39:20
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\export-wp-page-to-static-html-pro-premium\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Jun 29 2023 15:39:23
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\export-wp-page-to-static-html-pro-premium\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Jun 29 2023 15:39:25
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\export-wp-page-to-static-html-pro-premium\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Jun 29 2023 15:39:28
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\export-wp-page-to-static-html-pro-premium\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Jun 29 2023 15:39:30
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\export-wp-page-to-static-html-pro-premium\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Jun 29 2023 15:39:32
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\export-wp-page-to-static-html-pro-premium\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Jun 29 2023 15:39:34
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\export-wp-page-to-static-html-pro-premium\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Jun 29 2023 15:39:37
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\export-wp-page-to-static-html-pro-premium\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Jun 29 2023 15:39:39
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\export-wp-page-to-static-html-pro-premium\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Jun 29 2023 15:39:41
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\export-wp-page-to-static-html-pro-premium\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Jun 29 2023 15:39:43
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\export-wp-page-to-static-html-pro-premium\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Jun 29 2023 15:39:45
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\export-wp-page-to-static-html-pro-premium\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Jun 29 2023 15:39:48
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\export-wp-page-to-static-html-pro-premium\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Jun 29 2023 15:39:50
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\export-wp-page-to-static-html-pro-premium\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Jun 29 2023 15:39:52
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\export-wp-page-to-static-html-pro-premium\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Jun 29 2023 15:39:54
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\export-wp-page-to-static-html-pro-premium\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Jun 29 2023 15:39:57
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\export-wp-page-to-static-html-pro-premium\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Jun 29 2023 15:39:59
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\export-wp-page-to-static-html-pro-premium\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Jun 29 2023 15:40:01
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\export-wp-page-to-static-html-pro-premium\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Jun 29 2023 15:40:03
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\export-wp-page-to-static-html-pro-premium\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Jun 29 2023 15:40:06
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\export-wp-page-to-static-html-pro-premium\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Jun 29 2023 15:40:08
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\export-wp-page-to-static-html-pro-premium\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Jun 29 2023 15:40:10
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\export-wp-page-to-static-html-pro-premium\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Jun 29 2023 15:40:12
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\export-wp-page-to-static-html-pro-premium\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Jun 29 2023 15:40:14
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\export-wp-page-to-static-html-pro-premium\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Jun 29 2023 15:40:17
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\export-wp-page-to-static-html-pro-premium\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Jun 29 2023 15:40:19
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\export-wp-page-to-static-html-pro-premium\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Jun 29 2023 15:40:21
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\export-wp-page-to-static-html-pro-premium\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Jun 29 2023 15:40:23
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\export-wp-page-to-static-html-pro-premium\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Jun 29 2023 15:40:24
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\export-wp-page-to-static-html-pro-premium\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Jun 29 2023 15:40:26
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\export-wp-page-to-static-html-pro-premium\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Jun 29 2023 15:40:28
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\export-wp-page-to-static-html-pro-premium\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Jun 29 2023 15:40:28
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\export-wp-page-to-static-html-pro-premium\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Jun 29 2023 15:40:30
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\export-wp-page-to-static-html-pro-premium\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Jun 29 2023 15:40:33
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\export-wp-page-to-static-html-pro-premium\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Jun 29 2023 15:41:17
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\export-wp-page-to-static-html-pro-premium\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Jun 29 2023 15:41:19
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\export-wp-page-to-static-html-pro-premium\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Jun 29 2023 15:41:19
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\export-wp-page-to-static-html-pro-premium\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Jun 29 2023 15:41:21
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\export-wp-page-to-static-html-pro-premium\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Jun 29 2023 15:41:26
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\export-wp-page-to-static-html-pro-premium\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Jun 29 2023 15:41:32
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\export-wp-page-to-static-html-pro-premium\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Jun 29 2023 15:41:33
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\export-wp-page-to-static-html-pro-premium\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Jun 29 2023 15:41:41
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\export-wp-page-to-static-html-pro-premium\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Jun 29 2023 15:41:46
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\export-wp-page-to-static-html-pro-premium\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Jun 29 2023 15:41:49
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\export-wp-page-to-static-html-pro-premium\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Jun 29 2023 15:42:00
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\export-wp-page-to-static-html-pro-premium\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Jun 29 2023 15:42:01
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\export-wp-page-to-static-html-pro-premium\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Jun 29 2023 15:42:12
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\export-wp-page-to-static-html-pro-premium\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Jun 29 2023 15:42:13
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\export-wp-page-to-static-html-pro-premium\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Jun 29 2023 15:42:19
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\export-wp-page-to-static-html-pro-premium\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Jun 29 2023 15:42:29
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\export-wp-page-to-static-html-pro-premium\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Jun 29 2023 15:42:30
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\export-wp-page-to-static-html-pro-premium\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Jun 29 2023 15:42:37
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\export-wp-page-to-static-html-pro-premium\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Jun 29 2023 15:42:45
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\export-wp-page-to-static-html-pro-premium\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Jun 29 2023 15:42:49
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\export-wp-page-to-static-html-pro-premium\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Jun 29 2023 15:42:57
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\export-wp-page-to-static-html-pro-premium\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Jun 29 2023 15:42:59
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\export-wp-page-to-static-html-pro-premium\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Jun 29 2023 15:43:02
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\export-wp-page-to-static-html-pro-premium\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Jun 29 2023 15:43:09
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\export-wp-page-to-static-html-pro-premium\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Jun 29 2023 15:43:11
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\export-wp-page-to-static-html-pro-premium\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Jun 29 2023 15:43:14
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\export-wp-page-to-static-html-pro-premium\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Jun 29 2023 15:43:20
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\export-wp-page-to-static-html-pro-premium\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Jun 29 2023 15:43:23
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\export-wp-page-to-static-html-pro-premium\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Jun 29 2023 15:43:25
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\export-wp-page-to-static-html-pro-premium\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Jun 29 2023 15:43:35
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\export-wp-page-to-static-html-pro-premium\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Jun 29 2023 15:43:36
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\export-wp-page-to-static-html-pro-premium\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Jun 29 2023 15:43:43
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\export-wp-page-to-static-html-pro-premium\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Jun 29 2023 15:43:52
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\export-wp-page-to-static-html-pro-premium\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Jun 29 2023 15:43:58
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\export-wp-page-to-static-html-pro-premium\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Jun 29 2023 15:44:08
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\export-wp-page-to-static-html-pro-premium\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Jun 29 2023 15:44:08
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\export-wp-page-to-static-html-pro-premium\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Jun 29 2023 15:44:16
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\export-wp-page-to-static-html-pro-premium\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Jun 29 2023 15:44:21
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\export-wp-page-to-static-html-pro-premium\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Jun 29 2023 15:44:25
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\export-wp-page-to-static-html-pro-premium\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Jun 29 2023 15:44:35
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\export-wp-page-to-static-html-pro-premium\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Jun 29 2023 15:44:35
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\export-wp-page-to-static-html-pro-premium\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Jun 29 2023 15:44:42
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\export-wp-page-to-static-html-pro-premium\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Jun 29 2023 15:44:48
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\export-wp-page-to-static-html-pro-premium\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Jun 29 2023 15:44:51
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\export-wp-page-to-static-html-pro-premium\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Jun 29 2023 15:44:53
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\export-wp-page-to-static-html-pro-premium\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Jun 29 2023 15:44:56
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\export-wp-page-to-static-html-pro-premium\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Jun 29 2023 15:44:57
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\export-wp-page-to-static-html-pro-premium\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Jun 29 2023 15:45:04
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\cartesorio\\wp-content\\plugins\\export-wp-page-to-static-html-pro-premium\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Jun 29 2023 15:45:10
+{"type":2,"message":"fileperms(): stat failed for C:\\xampp\\htdocs\\cartesorio\/index.php","file":"C:\\xampp\\htdocs\\cartesorio\\wp-admin\\includes\\file.php","line":2110}
+
+Jun 29 2023 15:45:11
+{"type":2,"message":"fileperms(): stat failed for C:\\xampp\\htdocs\\cartesorio\/index.php","file":"C:\\xampp\\htdocs\\cartesorio\\wp-admin\\includes\\file.php","line":2110}
+
